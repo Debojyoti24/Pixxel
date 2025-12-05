@@ -178,7 +178,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
-If you have any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or suggestions, feel free to contact me at [your-email@example.com](bhattacherjeedebojyoti1176@gmail.com).
 
 ## 💖 Thanks Message
 
