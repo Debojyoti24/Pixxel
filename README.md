@@ -172,9 +172,7 @@ Contributions are welcome! Please follow these steps:
 4.  Push your changes to your fork.
 5.  Submit a pull request.
 
-## 📝 License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## 📬 Contact
 
